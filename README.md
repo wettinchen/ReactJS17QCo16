@@ -94,7 +94,7 @@ https://www.youtube.com/@DaveGrayTeachesCode
         修改 Footer.js
 
 ### 22. About component
-        修改 Footer.js
+        修改 About.js
 
 # Getting Started with Create React App
 
